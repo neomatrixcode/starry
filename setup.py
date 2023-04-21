@@ -214,7 +214,7 @@ setup(
     },
     install_requires=[
         "setuptools_scm",
-        "numpy>=1.19.2",
+        "numpy==1.19.2",
         "scipy>=1.5.0",
         "astropy>=3.1",
         "pymc3",
